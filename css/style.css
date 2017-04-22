@@ -2,7 +2,7 @@
 PRIMARY STRUCTURE
 ============================================================ */
 #container-fluid {
-    background-image: url('../back.jpg');
+    background-image: url('../images/back.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     min-height: 100vh;
@@ -14,7 +14,12 @@ PRIMARY STRUCTURE
     background-color: rgba(255,255,255, 0.7);
     min-width: 100vw;
 }
-
+button {
+    margin-left: 10px;
+}
+h6 {
+    margin-right: 10px;
+}
 /* ============================================================
 THE END
 ============================================================ */
